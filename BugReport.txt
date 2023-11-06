@@ -1,0 +1,50 @@
+Bug report NR: 123
+
+        Title
+        ____________
+        Multi-select filter for countries not working correctly
+
+
+        Description
+        ____________
+        In a web application, there is a multi-select filter by country
+        with the search input field. All existing countries
+        should be available there. There is a bug, that
+        after typing some valid country in the search bar
+        the result list is empty.
+
+
+        Environment
+        ____________
+        Platform: PC computer
+        System: Windows 10 Pro 22H2, compilation: 19045.3570
+        Browser: Firefox 119.0 (64 bit)
+
+
+        Steps to reproduce a Bug
+        ____________
+        1. Open web application
+        2. Open search input field
+        3. Type for example "Poland" in the input field
+        4. Press search
+        5. List is empty
+
+
+        Expected Result
+        ____________
+        Poland should appear on the list
+
+
+        Actual Result
+        ____________
+        The list is empty
+
+
+        Visual Proof (screenshots, videos, text) of Bug
+        ____________
+        bug1.png
+
+
+        Severity/Priority
+        ____________
+        Low

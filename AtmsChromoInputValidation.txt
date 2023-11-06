@@ -1,0 +1,38 @@
+Test designs for:
+____________
+
+        ATMS Chrono mobile APP made by Alan Systems
+
+
+Test designs author:
+____________
+
+        Dominik Majchrzak
+
+Hardware
+____________
+
+        Mobile phone with iOS/Android ->    Server under test
+        with ATMS Chrono application  <-
+
+Desription
+____________
+
+            Tests verifying if input validation for logging functionality is working as intended
+
+Requriements
+____________
+
+            ATMS_Chrono_login_requirements.pdf
+
+Preconditions
+____________
+
+            Mobile phone is up and running
+            ATMS Chrono application is running
+            Mobile phone have connection with internet
+
+Tests
+____________
+
+            - test_
