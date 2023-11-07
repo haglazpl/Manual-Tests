@@ -2,7 +2,7 @@ Bug report NR: 123
 
         Title
         ____________
-        Multi-select filter for countries not working correctly
+        Multi-select filter for countries is not working correctly.
 
 
         Description
@@ -18,10 +18,11 @@ Bug report NR: 123
         ____________
         Platform: PC computer
         System: Windows 10 Pro 22H2, compilation: 19045.3570
-        Browser: Firefox 119.0 (64 bit)
+        Browser: Firefox 119.0 (64 bit) / Chrome Version 119.0.6045.105 (Official Build) (64-bit)
+        Application version: XXX
 
 
-        Steps to reproduce a Bug
+        Steps to reproduce the bug
         ____________
         1. Open web application
         2. Open search input field
@@ -30,21 +31,26 @@ Bug report NR: 123
         5. List is empty
 
 
-        Expected Result
+        Expected result
         ____________
         Poland should appear on the list
 
 
-        Actual Result
+        Actual result
         ____________
         The list is empty
 
 
-        Visual Proof (screenshots, videos, text) of Bug
+        Visual proof (screenshots, videos, text) of bug
         ____________
         bug1.png
 
 
         Severity/Priority
         ____________
-        Low
+        Low/High
+
+        Workaround:
+        ____________
+        Until this issue is resolved, users can work around the problem by clearing the search input or using
+        the initial list of countries provided before typing a search term.

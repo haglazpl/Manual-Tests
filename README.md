@@ -1,12 +1,19 @@
 ## General info
 Manual tests created for recruitment purposes, created by Dominik Majchrzak.
 
+There was no specification provided, so I was left with two choices:
+    1. Report back that correct testing is impossible without documentation, because 
+        how can I test something if I don't know how it should work?
+    2. Act like Product Owner and create simple requirements and test accordingly.
+
+I went with choice nr. 2 and this is the result
+
 Each task is assigned to a folder Zadanie 1/2/3/4
 
 Requirements for task 1/2 is located in folder Zadanie 1, file name is ATMS_Chrono_login_requirements.pdf
 Task 1 is completed in file, Zadanie manual 1 - QA.pdf
 
- 
+
 ## Setup - Task 4 (Anagram)
 ![obraz](https://github.com/haglazpl/Manual-Tests/assets/36937498/151c14c1-e070-43c4-b9ee-8c4e103d143d)
 
