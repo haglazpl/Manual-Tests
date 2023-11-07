@@ -15,7 +15,8 @@ Task 1 is completed in file, Zadanie manual 1 - QA.pdf
 
 
 ## Setup - Task 4 (Anagram)
-![obraz](https://github.com/haglazpl/Manual-Tests/assets/36937498/151c14c1-e070-43c4-b9ee-8c4e103d143d)
+![obraz](https://github.com/haglazpl/Manual-Tests/assets/36937498/8d7663eb-36e1-46ff-a429-3cec80d8036e)
+
 
 To run this project:
 
